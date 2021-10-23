@@ -1,6 +1,6 @@
-- 👋 Hi, There
-- Hi 👋, I'm Miguel 
-- I'm an industrial engineer and full stack student in java and python
+# Hello 👋🏾
+Hi 👋, I'm Miguel 
+I'm an industrial engineer and full stack student in java and python
 
 
 
